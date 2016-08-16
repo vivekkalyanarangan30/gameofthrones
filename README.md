@@ -1,4 +1,4 @@
-# gameofthrones
+# Game of Thrones Analytics
 Deep Learning Game of Thrones Subtitles
 
 Data is coming. Game of Thrones (GOT) is getting more and more interesting and I thought that a machine should not miss out on all the fun. So here’s the way I taught a machine the Game of Phrases –
