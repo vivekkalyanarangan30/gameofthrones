@@ -10,4 +10,4 @@ Data is coming. Game of Thrones (GOT) is getting more and more interesting and I
 I was itching to use word2vec on some dataset and this looked like the perfect match. Here’s the Wikipedia definition –
 "Word2vec is a group of related models that are used to produce so-called word embedding. These models are shallow, two-layer neural networks that are trained to reconstruct linguistic contexts of words: the network is shown a word, and must guess which words occurred in adjacent positions in an input text"
 
-The full blog can be found at http://machinelearningblogs.com/gotanalytics.html
+The full blog can be found at http://machinelearningblogs.com/2016/12/game-of-thrones-analytics/
